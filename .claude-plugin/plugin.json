@@ -1,0 +1,9 @@
+{
+  "name": "async-standup",
+  "version": "0.1.0",
+  "description": "Generate daily standup updates and weekly recaps by reviewing your calendar, email, and Notion activity",
+  "author": {
+    "name": "Han"
+  },
+  "keywords": ["standup", "status", "weekly", "async", "team"]
+}
